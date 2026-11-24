@@ -100,6 +100,9 @@ Sizes, ratios, lengths and file limits, from the platforms.
 
 ## Open-source marketing tools
 
+- [Ad Spy](https://github.com/hermoso-ai/ad-spy) - Enter a competitor's domain to see their live Meta, Google and LinkedIn ads, longest-running first, with a swipefile. Next.js, runs on the Hermoso API.
+- [Brand to Ads](https://github.com/hermoso-ai/brand-to-ads) - Paste a brand URL, get a set of on-brand static image ads. Next.js web app and CLI, runs on the Hermoso API.
+- [Social Scheduler](https://github.com/hermoso-ai/social-scheduler) - Social media calendar, composer and best-time-to-post heatmap. Next.js, runs on the Hermoso API.
 - [Postiz](https://github.com/gitroomhq/postiz-app) - Self-hosted social media scheduling with an AI assistant.
 - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management.
 - [Mautic](https://github.com/mautic/mautic) - Marketing automation: email, landing pages, segments and campaigns.
